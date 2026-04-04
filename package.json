@@ -1,0 +1,16 @@
+{
+  "name": "product-api-simulator-promises",
+  "version": "1.0.0",
+  "description": "product api simulator with promise and error handling",
+  "license": "ISC",
+  "author": "srilatha puppala",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  }
+}

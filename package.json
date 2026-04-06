@@ -4,8 +4,8 @@
   "description": "product api simulator with promise and error handling",
   "license": "ISC",
   "author": "srilatha puppala",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
